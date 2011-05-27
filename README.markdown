@@ -43,5 +43,6 @@ My bundles work best when use in conjunction with my other bundles:
 
 Additions by [Philippe Huibonhoa](http://github.com/phuibonhoa) and funded by [BookRenter.com](http://www.bookrenter.com "BookRenter.com").
 
+Additional Snippets by Chris Slade
 
 Original bundle can be found [here](http://github.com/handcrafted/handcrafted-haml-textmate-bundle)
