@@ -11,6 +11,8 @@
 </string>
 	<key>name</key>
 	<string>if else condition</string>
+	<key>scope</key>
+	<string>text.haml</string>
 	<key>tabTrigger</key>
 	<string>ife</string>
 	<key>uuid</key>

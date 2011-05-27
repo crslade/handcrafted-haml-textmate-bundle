@@ -3,17 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-if $1 
+	<string>-content_for :${1:head} do
   $0
-
 </string>
 	<key>name</key>
-	<string>if condition</string>
+	<string>content_for</string>
 	<key>scope</key>
 	<string>text.haml</string>
 	<key>tabTrigger</key>
-	<string>if</string>
+	<string>cont</string>
 	<key>uuid</key>
-	<string>BEAC41E9-4BBE-4B3B-8D01-E844DAC23721</string>
+	<string>B60BCA8A-A63A-4184-9267-9CB9A6C5E914</string>
 </dict>
 </plist>

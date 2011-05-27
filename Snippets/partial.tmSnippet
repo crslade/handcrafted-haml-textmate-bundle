@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>%h6$0</string>
+	<string>=render(:partial =&gt; $1)</string>
 	<key>name</key>
-	<string>h6 (full trigger)</string>
+	<string>partial</string>
 	<key>scope</key>
 	<string>text.haml</string>
 	<key>tabTrigger</key>
-	<string>h6</string>
+	<string>part</string>
 	<key>uuid</key>
-	<string>AEFF1280-ACA1-4B6B-AB45-9863DB41B2DA</string>
+	<string>7B7A9AB2-FE1C-4B9A-BB31-3502E4A88BF0</string>
 </dict>
 </plist>
